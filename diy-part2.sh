@@ -12,6 +12,10 @@
 git clone https://github.com/jerrykuku/lua-maxminddb.git package/lua-maxminddb
 git clone https://github.com/NoopLoop00/luci-app-vssr.git package/luci-app-vssr
 git clone https://github.com/op4packages/pdnsd-alt.git package/pdnsd-alt
+git clone https://github.com/aa65535/openwrt-simple-obfs.git package/simple-obfs
+git clone https://github.com/tianlichunhong/openwrt-xray-plugin.git package/xray-plugin
+git clone https://github.com/pexcn/openwrt-ipt2socks.git package/ipt2socks
+
 
 
 # Modify default IP
