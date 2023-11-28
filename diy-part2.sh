@@ -12,7 +12,7 @@
 git clone https://github.com/siwind/openwrt-vlmcsd package/vlmcsd
 git clone https://github.com/siwind/luci-app-vlmcsd.git package/luci-app-vlmcsd
 git clone https://github.com/siwind/luci-app-usb_printer.git package/luci-app-usb_printer
-git clone https://github.com/quadhier/coreutils-base64.git package/coreutils-base64
+# git clone https://github.com/quadhier/coreutils-base64.git package/coreutils-base64
 
 # Modify default IP
 #sed -i 's/192.168.1.1/192.168.50.5/g' package/base-files/files/bin/config_generate
