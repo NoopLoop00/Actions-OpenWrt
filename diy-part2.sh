@@ -11,6 +11,8 @@
 #
 git clone https://github.com/jerrykuku/lua-maxminddb.git package/lua-maxminddb
 git clone https://github.com/NoopLoop00/luci-app-vssr.git package/luci-app-vssr
+git clone https://github.com/op4packages/pdnsd-alt.git package/pdnsd-alt
+
 
 # Modify default IP
 #sed -i 's/192.168.1.1/192.168.50.5/g' package/base-files/files/bin/config_generate
