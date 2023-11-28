@@ -9,7 +9,7 @@
 # File name: diy-part2.sh
 # Description: OpenWrt DIY script part 2 (After Update feeds)
 #
-git clone https://github.com/jerrykuku/lua-maxminddb.git package/lua-maxminddb
+# git clone https://github.com/jerrykuku/lua-maxminddb.git package/lua-maxminddb
 # git clone https://github.com/NoopLoop00/luci-app-vssr.git package/luci-app-vssr
 # git clone https://github.com/op4packages/pdnsd-alt.git package/pdnsd-alt
 # git clone https://github.com/aa65535/openwrt-simple-obfs.git package/simple-obfs
