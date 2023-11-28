@@ -16,8 +16,7 @@
 # git clone https://github.com/tianlichunhong/openwrt-xray-plugin.git package/xray-plugin
 # git clone https://github.com/pexcn/openwrt-ipt2socks.git package/ipt2socks
 # git clone https://github.com/trojan-gfw/openwrt-trojan.git package/trojan
-
-
+git clone https://github.com/quadhier/coreutils-base64.git package/coreutils-base64
 
 # Modify default IP
 #sed -i 's/192.168.1.1/192.168.50.5/g' package/base-files/files/bin/config_generate
