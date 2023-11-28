@@ -15,6 +15,7 @@ git clone https://github.com/op4packages/pdnsd-alt.git package/pdnsd-alt
 git clone https://github.com/aa65535/openwrt-simple-obfs.git package/simple-obfs
 git clone https://github.com/tianlichunhong/openwrt-xray-plugin.git package/xray-plugin
 git clone https://github.com/pexcn/openwrt-ipt2socks.git package/ipt2socks
+git clone https://github.com/trojan-gfw/openwrt-trojan.git package/trojan
 
 
 
